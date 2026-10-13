@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="14.0 -2.5 185.4 188.5">
+<circle cx="100" cy="100" r="80" fill="#0b0b0b" stroke="#8A847A" stroke-width="3.2"/>
+<path d="M58.7 85.0 A44.0 44.0 0 0 1 85.0 58.7" fill="none" stroke="#F4ECD9" stroke-opacity="0.5" stroke-width="2.8" stroke-linecap="round"/>
+<path d="M141.3 115.0 A44.0 44.0 0 0 1 115.0 141.3" fill="none" stroke="#F4ECD9" stroke-opacity="0.5" stroke-width="2.8" stroke-linecap="round"/>
+<path d="M48.9 81.4 A54.4 54.4 0 0 1 81.4 48.9" fill="none" stroke="#F4ECD9" stroke-opacity="0.5" stroke-width="2.8" stroke-linecap="round"/>
+<path d="M151.1 118.6 A54.4 54.4 0 0 1 118.6 151.1" fill="none" stroke="#F4ECD9" stroke-opacity="0.5" stroke-width="2.8" stroke-linecap="round"/>
+<path d="M39.1 77.8 A64.8 64.8 0 0 1 77.8 39.1" fill="none" stroke="#F4ECD9" stroke-opacity="0.5" stroke-width="2.8" stroke-linecap="round"/>
+<path d="M160.9 122.2 A64.8 64.8 0 0 1 122.2 160.9" fill="none" stroke="#F4ECD9" stroke-opacity="0.5" stroke-width="2.8" stroke-linecap="round"/>
+<circle cx="100" cy="100" r="25.6" fill="#C31731"/>
+<path d="M91.492 112.0Q91.152 112.0 90.88 111.745Q90.608 111.49 90.608 111.116V89.084Q90.608 88.71 90.88 88.455Q91.152 88.2 91.492 88.2H102.338Q105.432 88.2 107.404 89.01599999999999Q109.376 89.832 110.328 91.362Q111.28 92.892 111.28 95.136Q111.28 96.292 110.821 97.193Q110.362 98.094 109.716 98.689Q109.07 99.28399999999999 108.492 99.556Q109.818 100.134 110.804 101.511Q111.79 102.888 111.79 104.656Q111.79 107.036 110.719 108.668Q109.648 110.3 107.625 111.15Q105.602 112.0 102.678 112.0ZM97.918 106.866H101.896Q103.052 106.866 103.596 106.169Q104.14 105.472 104.14 104.622Q104.14 103.738 103.56200000000001 103.075Q102.98400000000001 102.412 101.896 102.412H97.918ZM97.918 97.414H101.556Q102.644 97.414 103.154 96.80199999999999Q103.664 96.19 103.664 95.374Q103.664 94.55799999999999 103.154 93.946Q102.644 93.334 101.556 93.334H97.918Z" fill="#F4ECD9" stroke="#F4ECD9" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="152.3,1.5 192.3,1.5 170.8,38.5 195.4,38.5 136.9,106.2 155.4,56.9 130.8,56.9" fill="#C31731" stroke="#121212" stroke-width="4.6" stroke-linejoin="round"/>
+</svg>

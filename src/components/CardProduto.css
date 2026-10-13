@@ -1,0 +1,49 @@
+.card {
+    background-color: var(--cards);
+    border-radius: 10px;
+    border: 1px solid #d6d6d3;
+    overflow: hidden;
+}
+.card img{
+    width: 100%;
+    display: block;
+}
+.card-info {
+    padding: 12px;
+}
+.cat-gen {
+    color: var(--destaque);
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 4px;
+}
+.banda {
+    color: var(--texto-suave);
+    font-size: 14px;
+    margin-bottom: 12px;
+}
+.card-rodape {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.preco {
+    font-size: 18px;
+    font-weight: bold;
+}
+.btn-comprar {
+    background-color: var(--destaque);
+    color: var(--fundo);
+    font-weight: bold;
+    padding: 9px 13px;
+    border: none;
+    font-family: inherit;
+    border-radius: 4px;
+    text-align: center;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+.btn-comprar:hover{
+    transform: scale(1.05);    
+}

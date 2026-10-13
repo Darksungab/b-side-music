@@ -1,0 +1,13 @@
+.produtos {
+    padding: 30px var(--margin-lateral);
+}
+.produtos h2 {
+    color: var(--destaque);
+    text-align: left;
+    margin-bottom: 20px;
+}
+.vitrine {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 20px;
+}

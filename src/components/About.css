@@ -1,0 +1,16 @@
+.about{
+    margin-left: var(--margin-lateral);
+    margin-right: var(--margin-lateral);
+}
+.about h2{
+    color: var(--destaque);
+    text-align: center;
+    margin-bottom: 20px;
+}
+.about p{
+    max-width: 70ch;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 14px;
+    font-size: 20px;
+}

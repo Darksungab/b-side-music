@@ -1,0 +1,40 @@
+.banner{
+    min-height: 28vh;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    margin: 15px;
+    border: 5px solid var(--fundo);
+    border-radius: 12px;
+    background: repeating-radial-gradient(circle at 75% 50%, #111 0 2px, #1a1a1a  3px 14px,#111 15px);
+    justify-content: space-between;
+    align-items: center;
+}
+.disco img{
+    height: 200px;
+}
+.texto{
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-start;    
+    color: var(--texto-claro);
+}
+.texto p{
+    color: var(--texto-secundario)
+}
+.btn-prod{
+    background-color: var(--destaque);
+    color: var(--fundo);
+    text-decoration: none;
+    font-weight: bold;
+    padding: 9px 13px;
+    border-radius: 4px;
+    text-align: center;
+    transition: transform 0.2s ease;
+}
+.btn-prod:hover{
+    transform: scale(1.05);
+    
+}
