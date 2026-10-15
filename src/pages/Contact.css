@@ -1,0 +1,26 @@
+.contato{
+    padding-left: var(--margin-lateral);
+    padding-right: var(--margin-lateral);
+}
+.contato h2 {
+    text-align: center;
+    color: var(--destaque);
+    margin-bottom: 12px;
+    margin-top:8px;
+}
+.subtitulo{
+    text-align: center;
+    color: var(--texto-suave);
+    margin-bottom: 28px;
+}
+.contato-conteudo{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 30px;
+}
+.contato-lista{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    font-style: normal;
+}

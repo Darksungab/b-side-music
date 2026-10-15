@@ -1,0 +1,20 @@
+.banner-garantia {
+    background-color: var(--cabecalho-rodape);
+    color: var(--texto-claro);
+    border-top: 3px solid var(--destaque);
+    border-radius: 15px ;
+    padding: 16px;
+}
+.banner-garantia h3{
+    font-size: x-large;
+    max-width: 12ch;
+    margin-bottom: 20px;
+}
+.banner-garantia ul{
+    font-size: large;
+    list-style: none;
+}
+.banner-garantia li{
+    margin-bottom: 14px;
+    max-width: 35ch;
+}
