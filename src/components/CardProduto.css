@@ -34,7 +34,7 @@
 }
 .btn-comprar {
     background-color: var(--destaque);
-    color: var(--fundo);
+    color: var(--texto-claro);
     font-weight: bold;
     padding: 9px 13px;
     border: none;

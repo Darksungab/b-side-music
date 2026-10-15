@@ -20,7 +20,7 @@
     padding-bottom: var(--espaco-btn-nav);
     padding-top: var(--espaco-btn-nav);
     border-radius: 5px;
-    color: var(--fundo) ;
+    color: var(--texto-claro) ;
     text-decoration: none;
     transition: background-color 0.15s ease, transform 0.2s ease;
 }

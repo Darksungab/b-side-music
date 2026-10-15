@@ -26,7 +26,7 @@
 }
 .btn-prod{
     background-color: var(--destaque);
-    color: var(--fundo);
+    color: var(--texto-claro);
     text-decoration: none;
     font-weight: bold;
     padding: 9px 13px;

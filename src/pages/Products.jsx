@@ -1,5 +1,5 @@
-import CardProduto from "../components/CardProduto";
-import prods from "../data/produtos";
+import CardProduto from "../components/CardProduto.jsx";
+import prods from "../data/produtos.js";
 import "./Products.css"
 function Products() {
     return (

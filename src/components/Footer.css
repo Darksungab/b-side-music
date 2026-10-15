@@ -1,6 +1,6 @@
 .rodape{
     background-color: var(--cabecalho-rodape);
-    color: var(--fundo);
+    color: var(--texto-claro);
     min-height: 65px;
     display: flex;
     flex-direction: column;
@@ -17,17 +17,18 @@
     font-size: 20px;
 }
 .sociais a{
-    color: var(--fundo);
+    color: var(--texto-claro);
 }
 .sociais a:hover{
     color: var(--destaque)
 }
 .autor{
+    color: var(--texto-claro);
     font-size: large;
     margin-bottom: 7px;
 }
 .autor a{
-    color: var(--fundo);
+    color: var(--texto-claro);
     text-decoration: none;
 }
 .autor a:hover{
