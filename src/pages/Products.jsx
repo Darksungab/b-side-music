@@ -4,7 +4,7 @@ import "./Products.css"
 function Products() {
     return (
         <section className="produtos">
-            <h2>Produtos:</h2>
+            <h2>Produtos</h2>
             <div className="vitrine">
                 {prods.map((prod) => (
                     <CardProduto

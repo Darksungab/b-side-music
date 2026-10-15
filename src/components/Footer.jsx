@@ -12,7 +12,7 @@ function Footer(){
                 <a target="_blank" rel="noopener noreferrer" aria-label="Instagram da B-Side" href="https://instagram.com">
                     <FaInstagram />
                 </a>
-                <a target="_blank" rel="noopener noreferrer" aria-label="Whatsapp da B-Side" href="https://wa.me/">
+                <a target="_blank" rel="noopener noreferrer" aria-label="WhatsApp da B-Side" href="https://wa.me/">
                     <FaWhatsapp />
                 </a>
             </div>          
