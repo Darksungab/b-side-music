@@ -12,7 +12,8 @@
 }
 .cabecalho-menu{
     display: flex;
-    flex-direction:row;    
+    flex-direction:row;
+    gap: 4px;  
 }
 .btn-nav{
     padding-left: var(--lados-btn-nav);
@@ -20,12 +21,24 @@
     padding-bottom: var(--espaco-btn-nav);
     padding-top: var(--espaco-btn-nav);
     border-radius: 5px;
-    color: var(--texto-claro) ;
+    color: var(--texto-claro);
     text-decoration: none;
     transition: background-color 0.15s ease, transform 0.2s ease;
+    position: relative;
 }
 .btn-nav:hover{
     background-color: rgba(255, 255, 255, 0.08);
     transform: scale(1.05);
     
+}
+
+.btn-nav.active::after{
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 4px;
+    background-color: var(--destaque);
+
 }
